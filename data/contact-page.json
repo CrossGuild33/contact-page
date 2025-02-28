@@ -1,0 +1,25 @@
+[
+    {
+        "type": "tour",
+        "question": "I want to ask a question about a tour I found on the website",
+        "message": "<p>To ask a question about a particular tour:</p><ul><li>Go to the tour you want to ask about</li><li>Click the Q&A tab</li><li>Ask and submit the question using the Q&A form that will appear</li><li>You will receive the answer straight to your email provided on submitting</li></ul>"
+    },
+    {
+        "type": "booking",
+        "question": "I want to enquire about an existing booking",
+        "message": "Send us a message describing your enquiry"
+    },
+    {
+        "type": "tailormade",
+        "question": "I want to request a tailor-made / customised tour",
+        "message": "Click here to request a tailor-made trip",
+        "url": "https://www.exploriada.com/my-exploriada/request-tailor-made-travel-experience/"
+    },
+    {
+        "type": "contact",
+        "question": "I have other question",
+        "message": "Send us a message describing your enquiry",
+        "subjects":["I have a marketing query", "I want to offer a partnership","I want to use a content found on your website","I have a problem with your website" ]
+                 
+    }
+]
